@@ -86,8 +86,6 @@ const en: LocaleType = {
       IsLatest: "Latest version",
       CheckUpdate: "Check Update",
       IsChecking: "Checking update...",
-      FoundUpdate: (x: string) => `Found new version: ${x}`,
-      GoToUpdate: "Update",
     },
     SendKey: "Send Key",
     Theme: "Theme",
