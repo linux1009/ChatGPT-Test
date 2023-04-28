@@ -74,12 +74,6 @@ const en: LocaleType = {
       Options: {
         cn: "简体中文",
         en: "English",
-        tw: "繁體中文",
-        es: "Español",
-        it: "Italiano",
-        tr: "Türkçe",
-        jp: "日本語",
-        de: "Deutsch",
       },
     },
     Avatar: "Avatar",
