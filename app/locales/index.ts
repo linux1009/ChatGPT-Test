@@ -1,11 +1,5 @@
 import CN from "./cn";
 import EN from "./en";
-import TW from "./tw";
-import ES from "./es";
-import IT from "./it";
-import TR from "./tr";
-import JP from "./jp";
-import DE from "./de";
 
 export type { LocaleType } from "./cn";
 
